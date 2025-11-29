@@ -1,8 +1,8 @@
 # 🌙 Children's Fairytale Illustration & Quiz Generation
 
 이 프로젝트는 **동화 삽화 자동 생성 모델**과 **GPT API 기반 퀴즈 생성 기능**으로 구성되어 있습니다.  
-이미지 생성에는 NVIDIA의 Consistory 기반 모델을 활용했으며,  
-특히 **여러 장면에서도 동일한 캐릭터가 유지되는 Character Consistency 구조**를 사용하고 있습니다.
+이미지 생성에는 NVIDIA의 Consistory 모델을 활용했으며,  
+특히 **여러 장면에서도 동일한 캐릭터가 유지되는 SDSA, FI 구조**를 사용하고 있습니다.
 
 🔗 Consistory 모델:  
 [Consistory](https://github.com/NVlabs/consistory)
