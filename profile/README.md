@@ -5,7 +5,7 @@
 특히 **여러 장면에서도 동일한 캐릭터가 유지되는 Character Consistency 구조**를 사용하고 있습니다.
 
 🔗 Consistory 모델:  
-[https://github.com/NVlabs/consistory](https://github.com/NVlabs/consistory)
+[Consistory](https://github.com/NVlabs/consistory)
 
 ---
 
@@ -23,15 +23,14 @@
 ---
 
 🔗 My Fairytale LoRA:  
-[https://huggingface.co/kimho9270/sdxl-korean-fairytale-lora](https://huggingface.co/kimho9270/sdxl-korean-fairytale-lora)
+[sdxl-korean-fairytale-lora](https://huggingface.co/kimho9270/sdxl-korean-fairytale-lora)
 
 ## 🧠 GPT API 기반 퀴즈 생성
 
 동화 줄거리를 입력하면 GPT API가 자동으로:
 
-- 줄거리 기반 **맞춤형 퀴즈 생성**
-- 빈칸·서술형·선택형 등 다양한 포맷 지원  
-- 필요하면 **정답 유사도 기반 평가 로직**도 구현 가능
+- 줄거리 기반 및 이미지 캡션 **맞춤형 퀴즈 생성**
+
 
 ---
 
@@ -41,7 +40,7 @@
 - GPT API 기반 퀴즈 생성 **코드 구조**
 - 프론트/백엔드 시스템 구성 안내
 
-> ⚠️ 모델(SDXL·Consistory·LoRA 가중치)은 용량 및 라이선스 문제로 포함되어 있지 않습니다.
+> ⚠️ 모델(SDXL·Consistory)은 용량 및 라이선스 문제로 포함되어 있지 않습니다.
 
 ---
 
